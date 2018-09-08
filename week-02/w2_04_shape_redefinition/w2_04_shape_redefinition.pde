@@ -11,6 +11,7 @@ void setup() {
 }
 
 void draw() {
+  background(255);
   myRectangle(200, 200, 200, 200);
 }
 
